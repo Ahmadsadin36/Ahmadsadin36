@@ -1,14 +1,16 @@
 # Ahmad Sadin
 
+Welcome to my GitHub! I am a **Frontend Web Developer** with a Master’s degree in *Computer Engineering – Web Information and Data Engineering* from the University of Padova. My academic journey included an Erasmus+ research semester at TU Graz, where I developed a full-stack geospatial network visualization system based on the CSX platform.
 
-Welcome to my GitHub! I'm a passionate **Frontend Developer** and **Master’s student in Web Information and Data Engineering** at the University of Padova. I have completed all my courses and am currently working on my thesis as an **Erasmus student at Graz University of Technology**. My work focuses on building responsive, user-friendly web applications with a strong foundation in:
+My main focus is on building **intuitive, data-driven web applications**—ranging from frontend interfaces to full-stack systems and dynamic network visualizations. I am currently open to opportunities in **frontend development**, **full-stack engineering**, or **network/data visualization** roles.
 
-- **HTML, CSS, JavaScript, ReactJS, TypeScript, Python, and Docker**
-- **WordPress**
-- **SEO and Digital Marketing**
-- **MongoDB, Sqlite, FastAPI, Graph Databases and Linked Data**
+## 🛠️ Skills
 
-I enjoy collaborating on projects that combine creative design and smart functionality. Feel free to explore my repositories, which showcase my web development projects and academic work.
+- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS, TypeScript, Next.js  
+- **Backend:** Python, FastAPI, Java  
+- **Data & Visualization:** Mapbox, Deck.gl, Graph Databases, MongoDB, SQLite  
+- **Other:** Docker, GitHub, WordPress, SEO  
 
+Feel free to explore my repositories, which showcase a mix of academic research and practical web development projects.
 
 [![](https://visitcount.itsvg.in/api?id=ahmadsadin&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
